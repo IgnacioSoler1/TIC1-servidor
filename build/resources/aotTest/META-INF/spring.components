@@ -1,0 +1,7 @@
+#
+#Tue Sep 06 15:17:07 UYT 2022
+com.example.servidor.Controllers.UsuarioController=org.springframework.stereotype.Component
+com.example.servidor.ServidorApplication=org.springframework.stereotype.Component,org.springframework.boot.SpringBootConfiguration
+com.example.servidor.models.UsuarioModel=javax.persistence.Entity,javax.persistence.Table
+com.example.servidor.repositories.UsuarioRepository=org.springframework.stereotype.Component,org.springframework.data.repository.Repository
+com.example.servidor.services.UsuarioService=org.springframework.stereotype.Component
